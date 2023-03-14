@@ -1,3 +1,7 @@
 day1 code
 
 day2 code
+
+day3 code
+
+day4 code
