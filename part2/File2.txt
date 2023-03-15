@@ -7,3 +7,6 @@ day3 code
 new day4 code
 
 day5 code
+
+day6 code 
+
